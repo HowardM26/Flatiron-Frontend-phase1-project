@@ -7,4 +7,4 @@ app.get("/*", (req, res) => {
     res.sendFile(path.resolve("Flatiron-Frontend-phase1-project", "index.html"));
 });
 
-app.listen(process.env.PORT || 5500, () => console.log("Server running..."));
+app.listen(process.env.PORT || 5501, () => console.log("Server running..."));
