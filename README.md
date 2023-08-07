@@ -8,6 +8,10 @@ Think of CryptoCurrency as another form of currency that uses encryption. It has
 
 This project was created to help stay relevant and informed in the economy as the world progresses in case money of old begin to phase out.
 
+## Installation
+
+Fork from github. Copy local SSH code. Paste in terminal and open in visual code stuido. It's best to have live extension installed to avoid any issues with the PORT number. 
+
 ```
 
 ## Contributing
