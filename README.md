@@ -10,8 +10,12 @@ This project was created to help stay relevant and informed in the economy as th
 
 ## Installation
 
-Fork from github. Copy local SSH code. Paste in terminal and open in visual code stuido. It's best to have live extension installed to avoid any issues with the PORT number. 
+Fork from github. Copy local SSH code. 
 
+https://github.com/HowardM26/Flatiron-Frontend-phase1-project
+
+
+ Paste in terminal and open in visual code stuido. It's best to have live extension installed to avoid any issues with the PORT number. 
 ```
 
 ## Contributing
